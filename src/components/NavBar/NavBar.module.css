@@ -8,6 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-bottom: 1px solid #ffffff;
 }
 .NavBar nav ul{
     list-style: none;
@@ -23,6 +24,7 @@
     color: #ffffff;
     font-size: 16px;
     font-weight: 700;
+    text-transform: uppercase;
 }
 .NavBar nav ul li a:hover{
     border-bottom: 5px solid #ff0000;

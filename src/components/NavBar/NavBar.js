@@ -6,16 +6,19 @@ const NavBar = () => {
             <nav>
                 <ul>
                     <li>
-                        <a href="/">Home</a>
+                        <a href="/"><i class="fas fa-home"></i> Home</a>
                     </li>
                     <li>
-                        <a href="/about">About Me</a>
+                        <a href="/about"><i class="fas fa-address-card"></i> About Me</a>
                     </li>
                     <li>
-                        <a href="/skills">Skills</a>
+                        <a href="/skills"><i class="fas fa-tools"></i> Skills</a>
                     </li>
                     <li>
-                        <a href="/contact">Contact</a>
+                        <a href="/skills"><i class="fas fa-project-diagram"></i> Projects</a>
+                    </li>
+                    <li>
+                        <a href="/contact"><i class="fas fa-phone-square"></i> Contact</a>
                     </li>
                 </ul>
             </nav>
