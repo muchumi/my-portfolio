@@ -18,7 +18,7 @@ const NavBar = () => {
                         <a href="/skills"><i class="fas fa-project-diagram"></i> Projects</a>
                     </li>
                     <li>
-                        <a href="/contact"><i class="fas fa-phone-square"></i> Contact</a>
+                        <a href="/contact"><i class="fas fa-envelope"></i> <i class="fas fa-phone-square"></i> Contact</a>
                     </li>
                 </ul>
             </nav>

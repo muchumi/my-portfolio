@@ -14,14 +14,11 @@ code {
 
 /* setting default styles for hi tags */
 h1{
-  font-weight: 600;
-  font-size: 40px;
+  font-size: 18px;
 }
 h2{
-  font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
 }
 p{
-  font-weight: 500;
-  font-size: 21px;
+  font-size: 14px;
 }
