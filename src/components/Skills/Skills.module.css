@@ -1,0 +1,51 @@
+.SkillsSection{
+    /* background: #000080; */
+    /* background: #676965; */
+    background: #141313;  
+    padding: 2% 0 2% 0;
+}
+.SkillsDetails{
+    font-size: 14px;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    text-align: justify;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    color: #ffffff;
+}
+.Container{
+    margin-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Container .List{
+    color: #ffffff;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    flex-basis: 33%;
+    box-shadow: 0 0 12px 4px white;
+    border-radius: 9px;
+    margin-bottom: 2px;
+}
+.Container .List ul{
+    list-style: none;
+}
+.Container .List ul li{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+span{
+    color: #ff0000;
+}
+.TechStack{
+    height: 70px;
+    width: 50px;
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
