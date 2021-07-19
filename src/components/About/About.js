@@ -5,7 +5,7 @@ const About = () => {
     return(
         <div className={classes.Container}>
             <PageHeader title={'About Me'} />
-            <div className={classes.AboutMe}>
+            <div className={classes.AboutMe} id="about">
                 <p className={classes.AboutMeDetails}>
                     I am a Software Developer based in Nairobi, Kenya who is looking for an entry-level role where I 
                     can bring my gained skills and <br /> grow them as I move under mentorship of senior Engineers.I love 
