@@ -1,12 +1,16 @@
 .Contact{
     background: #000080;
     height: 100px;
-    display: flex;
-    align-items: center;
-}
-.Contact .ContactIcons{
+    display: block;
+    text-align: center;
+    padding: 4% 0 4% 0;
     width: 100%;
-    display: flex;
-    justify-content: center;
-    cursor: pointer;
+}
+.Contact ul li{
+    display: inline-block;
+    float: none;
+    margin: 0 0.5em !important;
+}
+.Contact ul li:hover{
+    color: #ff0000;
 }
